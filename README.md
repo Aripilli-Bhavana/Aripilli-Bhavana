@@ -1,4 +1,4 @@
-   Hi, I’m @Bhavanaaripilli
+👋 Hi, I’m @Bhavanaaripilli
 👀 I’m passionate about technology and supporting women development.
 🌱 I’m a computer science and engineering student.
 🌱 I'm currently learning and growing in the tech field.
