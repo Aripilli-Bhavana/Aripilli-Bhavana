@@ -1,4 +1,4 @@
-👋 Hi, I’m Aripilli Bhavana  
+### 👋 Hi, I’m Aripilli Bhavana  
 👀 Passionate about Technology and Entrepreneurship  
 🌱 Pre-Final Year Computer Science and Engineering Student from GITAM (Deemed to be University) 
 🤝 Open to collaborating on open-source projects promoting diversity  
