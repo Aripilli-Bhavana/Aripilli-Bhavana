@@ -1,5 +1,13 @@
-👋 Hi, I’m Aripilli Bhavana
-👀 I’m passionate about technology and entrepreneurship.
-🌱 I’m a Pre-Final Year Student, currently pursuing my bachelor's in Computer Science and Engineering.
-I’m looking to collaborate on open source projects that promote diversity.
-📫 You can reach out to me via email at aripilli.bhavana8@gmail.com
+👋 Hi, I’m Aripilli Bhavana  
+👀 Passionate about Technology and Entrepreneurship  
+🌱 Pre-Final Year Computer Science and Engineering Student from GITAM (Deemed to be University) 
+🤝 Open to collaborating on open-source projects promoting diversity  
+
+### 🔧 Technologies & Tools
+- Languages: Python, C, Java, SQL, HTML, CSS.
+
+### 📈 Current Focus
+- Creating solutions that help others is my ikigai,  I find joy in problem solving.
+- Building projects that drive social impact
+
+📫 Feel free to reach out via email: aripilli.bhavana8@gmail.com or linkedin: www.[linkedin.com/in/aripillbhavana](https://www.linkedin.com/in/bhavana-aripilli/)
