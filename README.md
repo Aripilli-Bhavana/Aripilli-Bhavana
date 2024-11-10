@@ -1,7 +1,6 @@
 ### 👋 Hi, I’m Aripilli Bhavana  
 👀 I'm Passionate about Technology and Entrepreneurship.  
-🌱 I'm a Pre-Final Year Computer Science and Engineering Student from GITAM (Deemed to be University).
-🤝 I would love to gain hands-on experience on open-source projects. 
+🤝 I'm a Pre-Final Year Computer Science and Engineering Student from GITAM (Deemed to be University) and I would love to gain hands-on experience on open-source projects. 
 
 ### 🔧 Technologies & Tools
 - Languages: Python, C, Java, SQL, HTML, CSS.
